@@ -1,3 +1,21 @@
-
-20241108_161802,1,scatter plot,,,
-20241108_161802,1,heatmap,,,
+Session ID,User Number,Chart Type,Confidence,Rating,Comments
+20241111_154147,1,scatter plot,4,3,No
+20241111_154147,1,heatmap,3,3,No		
+20241111_170722,2,scatter plot,3,5,All good
+20241111_170722,2,heatmap,3,3,Its quite hard to see the difference in colors when they are close together
+20241111_171604,3,scatter plot,5,4,no
+20241111_171604,3,heatmap,3,2,Sometimes the color similarity makes it difficult to tell the difference between two schools 
+20241111_172712,4,scatter plot,4,4,no
+20241111_172712,4,heatmap,2,2,could not make a difference between 2 schools because of the colors
+20241111_173424,5,scatter plot,5,5,it was easy to read
+20241111_173424,5,heatmap,4,3,Harder than the scatterplot
+20241111_174752,6,heatmap,2,1,Couldnt see the difference with some colors 
+20241111_174752,6,scatter plot,4,4,Much easier to see the difference between two close schools than heatmaps
+20241111_175523,7,heatmap,3,3,no
+20241111_175523,7,scatter plot,4,4,no
+20241111_175928,8,heatmap,4,4,no
+20241111_175928,8,scatter plot,5,5,easier to read than the heatmaps
+20241111_180933,9,heatmap,5,5,no
+20241111_180933,9,scatter plot,5,4,no
+20241111_181341,10,heatmap,4,3,no
+20241111_181341,10,scatter plot,4,3,for one question I had two correct answers, was not clear which one to choose
